@@ -1,0 +1,7 @@
+{
+  "name": "NGPDManager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
