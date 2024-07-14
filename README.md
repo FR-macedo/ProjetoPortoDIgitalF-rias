@@ -26,9 +26,9 @@ O projeto será produzir um software que servirá para organizar os squads que s
         `
         ionic start NGPDManager tabs //vai criar um projeto no modelo tabs do Ionic
         cd NGPDManager
-        npm i express knex mysql cors dotenv
-        npm i @types/cors @types/knex @types/express ts-node-dev --save-dev
-        
+        npm i express knex mysql cors dotenv uuid 
+        npm i @types/cors @types/knex @types/express @types/uuid ts-node-dev --save-dev
+
         
         
         
