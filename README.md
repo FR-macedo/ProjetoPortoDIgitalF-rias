@@ -1,13 +1,22 @@
 # Projeto da trilha de férias 
 # Versão: JavaScript
+
 O projeto será produzir um software que servirá para organizar os squads que serão chamados para o RISE UP  e para o GROW UP.
+
 **Requisitos do software:**
+
 1. CRUD do mentor
+
 2. CRUD das empresas
+
 3. CRUD dos squads
+
 5. Alocação dos mentores
+
     5.1 (bônus) Utilzar Websocket
+
     5.2 Bloquear conflitos de mentores (evitar que turmas tenham dois mentores)
+
     5.3 Bloquear conflitos de horários.
 
 
